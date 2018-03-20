@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="0,1,2"
+    android:gravity="center">
+
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/satu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginLeft="10dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/dua"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginLeft="10dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="15dp"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/tiga"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginLeft="10dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/empat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginLeft="10dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="15dp"
+                android:textStyle="italic" />
+        </TableRow>
+
+</TableLayout>
+</RelativeLayout>

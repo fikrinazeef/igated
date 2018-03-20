@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "721027433592",
+    "firebase_url": "https://igated97.firebaseio.com",
+    "project_id": "igated97",
+    "storage_bucket": "igated97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721027433592:android:fab2af4e055351dc",
+        "android_client_info": {
+          "package_name": "my.com.tm.igated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721027433592-vd4j5p3rd2kl81q9rfmemulrgjl2gcoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq01TZomG9hZQGi5e20rIVoQ06Tf_ZjbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
